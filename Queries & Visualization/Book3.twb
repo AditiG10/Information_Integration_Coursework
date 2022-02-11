@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20214.22.0108.1039                               -->
+<workbook original-version='18.1' source-build='2021.4.3 (20214.22.0108.1039)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='query3 (query3)' inline='true' name='federated.1rz1odn17uqhpr1ak2a6h0yn2jay' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='query3' name='excel-direct.02m44g31cbubpm14lwu1b0kvnexe'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/aditi/OneDrive/Desktop/Information_integration/Queries/q/query3.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.02m44g31cbubpm14lwu1b0kvnexe' name='query3' table='[query3$]' type='table'>
+          <columns gridOrigin='A1:B21:no:A1:B21:0' header='yes' outcome='6'>
+            <column datatype='string' name='Name' ordinal='0' />
+            <column datatype='string' name='Location' ordinal='1' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.02m44g31cbubpm14lwu1b0kvnexe' name='query3' table='[query3$]' type='table'>
+          <columns gridOrigin='A1:B21:no:A1:B21:0' header='yes' outcome='6'>
+            <column datatype='string' name='Name' ordinal='0' />
+            <column datatype='string' name='Location' ordinal='1' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[query3]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:B21:no:A1:B21:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Name]</local-name>
+            <parent-name>[query3]</parent-name>
+            <remote-alias>Name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[query3_4E42D4B37D6D4D4FA696287177206FE2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Location</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Location]</local-name>
+            <parent-name>[query3]</parent-name>
+            <remote-alias>Location</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[query3_4E42D4B37D6D4D4FA696287177206FE2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='CountD' datatype='string' default-role='measure' default-type='quantitative' name='[Location]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='query3' datatype='table' name='[__tableau_internal_object_id__].[query3_4E42D4B37D6D4D4FA696287177206FE2]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='query3' id='query3_4E42D4B37D6D4D4FA696287177206FE2'>
+            <properties context=''>
+              <relation connection='excel-direct.02m44g31cbubpm14lwu1b0kvnexe' name='query3' table='[query3$]' type='table'>
+                <columns gridOrigin='A1:B21:no:A1:B21:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Name' ordinal='0' />
+                  <column datatype='string' name='Location' ordinal='1' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='query3 (query3)' name='federated.1rz1odn17uqhpr1ak2a6h0yn2jay' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rz1odn17uqhpr1ak2a6h0yn2jay'>
+            <column aggregation='CountD' datatype='string' default-role='measure' default-type='quantitative' name='[Location]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column datatype='string' name='[Name]' role='dimension' type='nominal' />
+            <column-instance column='[Location]' derivation='CountD' name='[ctd:Location:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Name]' derivation='None' name='[none:Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1rz1odn17uqhpr1ak2a6h0yn2jay].[ctd:Location:qk]' scope='rows' value='Location &apos;New York&apos;' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.1rz1odn17uqhpr1ak2a6h0yn2jay].[ctd:Location:qk]</rows>
+        <cols>[federated.1rz1odn17uqhpr1ak2a6h0yn2jay].[none:Name:nk]</cols>
+      </table>
+      <simple-id uuid='{82625795-F834-4371-B6A6-D7CDD39804CA}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1rz1odn17uqhpr1ak2a6h0yn2jay].[none:Location:nk]</field>
+            <field>[federated.1rz1odn17uqhpr1ak2a6h0yn2jay].[none:Name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{5A71009A-C5DC-4F22-AB64-F6457E927862}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
