@@ -1,0 +1,250 @@
+id,name,location,description,permit_number,phone,website,type_name,city,Starred
+1,"Bronx Park Mobile Food Truck","Between Gun Hill Rd. and Waring Ave.",None,X2-MT,None,None,"Mobile Food Truck","New York",FALSE
+2,"Bronx Park East Mobile Food Truck","Between Brady & Lydig Avenues",None,X2(3)-MT,None,None,"Mobile Food Truck","New York",FALSE
+3,"Seton Park Mobile Food Truck","West 235th Street & Independence Avenue",None,X201-MT,None,None,"Mobile Food Truck","New York",FALSE
+4,"Pelham Bay Park Mobile Food Truck","Rice Stadium Place",None,X39(1)-MT,None,None,"Mobile Food Truck","New York",FALSE
+5,"Pelham Bay Park Mobile Food Truck","Rodman's Neck Parking Lot",None,X39-3-MT,None,None,"Mobile Food Truck","New York",FALSE
+6,"Claremont Park Mobile Food Truck","Mount Eden Pkwy, Morris and Eastburn Aves.",None,X8-(2)MT,None,None,"Mobile Food Truck","New York",FALSE
+7,"Peace Park/Cleopatra Plgd Mobile Food Truck","Peace Park/Cleopatra Plgd: Clay Ave., and Cross Bronx Service Rd",None,X148E-258-MT,None,None,"Mobile Food Truck","New York",FALSE
+8,"Castle Hill Playground Mobile Food Truck","Olmstead, Turnbull, Castle Hill, Lafayette Aves",None,X151-MT,None,None,"Mobile Food Truck","New York",FALSE
+9,"Kissena Park Mobile Food Truck","164th St. and Booth Memorial Ave.",None,Q24-MT,None,None,"Mobile Food Truck","New York",FALSE
+10,"People's Park Mobile Food Truck","People's Park: Brook Ave, St Anns Ave, E 141 St; PS18 & Paterson Houses Plgd.: Morris Ave, E 148 St, College Ave, E 145 St; JHS149 Plgd.: 3 Ave, E 144 To E 145 Sts; Willis Plgd.; E 139 St, E 140 St, Willis & Alexander Aves",None,X103-155-200-217-MT,None,None,"Mobile Food Truck","New York",FALSE
+11,"Louis C. Moser Park Mobile Food Truck","25th Ave. & 76th St.",None,Q366-MT,None,None,"Mobile Food Truck","New York",FALSE
+12,"Marine Park Mobile Truck","Madison & Filmore Aves.",None,B57-1MT,None,None,"Mobile Food Truck","New York",FALSE
+13,"Martin Luther Playground Mobile Truck","56th Street, in front of hospital",None,B98-MT,None,None,"Mobile Food Truck","New York",FALSE
+14,"PAPAZIAN  Q3400006, AKOP","Skillsman Ave. & 43rd St.",None,Q340-MT,None,None,"Mobile Food Truck","New York",FALSE
+15,"Slattery Playground Mobile Truck","Northwest Corner of East 183rd Street & Valentine Avenue",None,X85-MT,None,None,"Mobile Food Truck","New York",FALSE
+16,"Central Park Food Cart","Central Park Mall Area, northwest side of the Bandshell",None,M10-72-1A-C,None,None,"Food Cart","New York",FALSE
+17,"Pugsley Park Mobile Food Truck","Dead End of Soundview Ave.",None,X88-MT,None,None,"Mobile Food Truck","New York",FALSE
+18,"Watson Park Mobile Truck","Watson Ave. & Soundview Ave. b/b Fields",None,X124-2-MT,None,None,"Mobile Food Truck","New York",FALSE
+19,"Clearview Cafe","201-10 Cross Island Parkway","The Clearview Cafe, formerly the home of silent film star Rudolph Valentino and Mayor Fiorello LaGuardia, is a fine dining restaurant and banquet hall with breathtaking views of the nearby Throgs Neck Bridge and Little Neck Bay in Queens.  With a golf course view, flanked by an elegant patio, garden, and pond, the 170-seat ground floor, red velvet and mahogany-rich hideaway, which includes a bar and grand fireplace.  The second floor holds a 230-seat banquet space with floor-to-ceiling windows and offers a behind-the-scenes bridal suite that was once the bedroom of Valentino himself.",Q10-A-R,"(718) 281 - 2233",http://www.veranda-restaurant.com/,Restaurant,"New York",FALSE
+20,"Central Park Food Cart","West 72 Street path, west of Daniel Webster",None,M10-72-3-C,None,None,"Food Cart","New York",FALSE
+21,"Harris Park Mobile Truck","Main Entrance to Park Next to Park House",None,X136-MT,None,None,"Mobile Food Truck","New York",FALSE
+22,"Terrace on the Park","52-11 111th Street","Terrace on the park is a full service Event and Catering Facility. The ballroom, fourteen stories high, presents breathtaking views of the New York skyline lit by the setting sun, or a crisp snowfall topping the trees in the park. The kitchen is well versed in preparation of a myriad of ethnic cuisines including southern Italy, contemporary American, and European. The desserts and wedding cake masterpieces are designed and baked on the premises. The private suites on the Ballroom level offer floor-to-ceiling windows, sunken dance floors, and dining rooms with service and amenities that rival a five star hotel. The Penthouse suite features an outdoor reception chapel area in a garden setting. On the well-manicured grounds there is a large gazebo, perfect for photos.",Q99-C-R,"(718) 592-5000",http://www.terraceonthepark.com/,Restaurant,"New York",FALSE
+23,"Central Park Food Cart","East Drive and 72 Street",None,M10-72-ED-C,None,None,"Food Cart","New York",FALSE
+24,"Rainey Park Mobile Truck","Dawson Pl. & Dawson Ave.",None,X255-MT,None,None,"Mobile Food Truck","New York",FALSE
+25,"Central Park Food Cart","West Drive, between West 74 and West 75 streets",None,M10-74-WD-C,None,None,"Food Cart","New York",FALSE
+26,"World's Fair Marina Restaurant","1 Worlds Fair Marina","The World's Fair Marina was originally built as an observation deck for the 1964 World's Fair. Today the World's Fair Marina is a restaurant and banquet hall. Located on Flushing Bay and overlooking La Guardia Airport, it is a picturesque location for weddings, to sweet 16's to any corporate event. The World's Fair team handles events from 50 to 500 people. Menu offerings include exotic Indian and continental cuisine.",Q99G-R,"(718) 898-1200",http://www.worldfairmarina.com/,Restaurant,"New York",FALSE
+27,"Charles Drew Memorial Park Mobile Ice Cream Truck","Van Wyck Expressway, 116th",None,Q220-MT,None,None,"Mobile Food Truck","New York",FALSE
+28,"Central Park Food Cart","East of West Drive, West 81 Street path to Delacorte Theater",None,M10-81-WD-C,None,None,"Food Cart","New York",FALSE
+29,"South Shore Country Club","200 Huguenot Avenue","South Shore Country Club is located in the heart of Staten Island overlooking the Golf Course. South Shore Country Club is a full service facility with a wide assortment of breakfast, lunch, dinner and bar selections for any event. The banquet staff can assist in arranging any event, from grand to intimate, including weddings, holiday parties, showers, conference, company parties, retreats, incentive dinners and reunions. Whether you are planning an intimate celebration or a luxurious reception you will find the South Shore Country Club's soft decor will present an elegant setting for all your guests.",R104-R,718-356-2771,http://grandoaksnyc.com/,Restaurant,"New York",FALSE
+30,"Dredsurfer LLC","Beach 17th Street","The DreadSurfer snack bar began operations in 2014. The menu offers smoothies and standard fair such as hot dogs, hamburgers, and french fries. The DreadSurfer also offers specialty items such as crab legs, salmon burgers and Caribbean specialties like jerk chicken, curry goat, and oxtail. There is seating available right on the boardwalk where you can enjoy great views while enjoying a glass of wine or beer.",Q162-2-SB,None,None,"Snack Bar","New York",FALSE
+31,"Crotona Park Mobile Food Truck","At Entrance to Hill & Dale Playground at East 173rd Street",None,X10-(5)MT,None,None,"Mobile Food Truck","New York",FALSE
+32,"Central Park Food Cart","East 84 Street, pedestrian path, west side of East Drive",None,M10-84-ED-C,None,None,"Food Cart","New York",FALSE
+33,"The Vanderbilt at South Beach","300 Father Capodanno Boulevard","If your vision is a seaside wedding ceremony with a sunset cocktail reception, a super sweet sixteen, an extravagant Bat/Bar Mitzvah or even a full banquet on the beach, our specialized event planners will help you make your dream a reality! With dramatic ocean views, relaxing natural acoustics, and truly magnificent vista of the Verrazano Narrows Bridge, our facility is the perfect setting for any occasion you are planning! We take pride in our experience and ability in customizing every event to suit its needs, while making every special occasion memorable! We focus on all the details so you can relax and fully enjoy your event! As you embark on a journey through our website, www.VanderbiltSouthBeach.com, we invite you to discover a new horizon of elegance with a never ending focus on service, quality, and professionalism. Our magnificent oceanfront facility offers customized service & a refined elegance unmatched anywhere in New York!",R46-R,"(718) 447-0800",http://www.vanderbiltsouthbeach.com/,Restaurant,"New York",FALSE
+34,"Crotona Park Mobile Food Truck","North from Prospect Street to Clinton Street",None,X10-(8)MT,None,None,"Mobile Food Truck","New York",FALSE
+35,"Central Park Food Cart","Northwest corner of Heckscher ballfields",None,M10-W65-C,None,None,"Food Cart","New York",FALSE
+36,"The Stone House","1150 Clove Road","The perfect getaway in Clove Lakes Park. Escape the everyday grind and experience their fine dining in this picturesque setting on the lake. Enjoy brunch, lunch, dinner and cocktails. Have your wedding, anniversary, shower or corporate event. The restaurant features a great dining experience on their terrace or waterfront patio.","R5-SB,BR,R","(718) 442-3600",http://thestonehousesi.com/,Restaurant,"New York",FALSE
+37,"Crotona Park Mobile Food Truck","East 173rd Street & Fulton Avenue At Entrance to Pool",None,X10-(P)MT,None,None,"Mobile Food Truck","New York",FALSE
+38,"The Hudson","Dyckman Marina Restaurant","The Hudson will offer BBQ, seafood, sandwiches, burgers, salads, and vegetarian cuisine",M28-R,None,https://thehudson.nyc/,Restaurant,"New York",FALSE
+39,"Carroll Park Mobile Truck","Carroll Park",None,B19-MT,None,None,"Mobile Food Truck","New York",FALSE
+40,"Central Park Food Cart","East side of West Drive at West 96 Street",None,M10-W67-C,None,None,"Food Cart","New York",FALSE
+41,"Verdi Square Snack Bar","72nd Street and Broadway","Le Pain Quotidien bakery and communal table serves simple, elegant boulangerie fare - soup, salads, tartines (open-faced sandwiches), breakfast, homemade pastries, and its signature handmade organic bread. A wide selection of breads is baked fresh daily in Le Pain Quotidien's central bakery in New York City and delivered every morning. The snack bar kiosk at Verdi Square offers "to go" coffee and pastries. The site also features an expanded seating area to comfortably enjoy a bite to eat.",M94-SB,None,http://www.lepainquotidien.com/,"Snack Bar","New York",FALSE
+42,"Battery Gardens Restaurant","1 Battery Park Plaza",None,M5-F-R,"(212) 809-5508",http://www.batterygardens.com/,Restaurant,"New York",FALSE
+43,"Battery Park Food Cart","8 Various Locations",None,M5-C,None,None,"Food Cart","New York",FALSE
+44,Bocce,"Northern Plaza Pavilion","Bocce Union Square is the NYC is located in the heart of Union Square Park, where patrons can enjoy pizza, Italian food, refreshing drinks and some friendly competition on the bocce court.",M89-SB-R,212-677-7818,https://bocceunionsquare.com/,Restaurant,"New York",FALSE
+45,"Frank O'connor Park Food Cart","Broadway, between 78th Street and 79th Street",None,Q98-C,None,None,"Food Cart","New York",FALSE
+46,"Arthur Kill Road Restaurant","Arthur Kill Road & Richmond Avenue",None,R13-R,None,None,Restaurant,"New York",FALSE
+47,"Flushing Meadows Corona Park Food Cart","North corner of Soccer Field #5",None,Q99-(1)-C,None,None,"Food Cart","New York",FALSE
+48,"Flushing Meadows Corona Park Food Cart","Around the outer pathway of the Unisphere",None,Q99-2-C,None,None,"Food Cart","New York",FALSE
+49,"Columbus Park Snack Bar","Brooklyn Borough Hall",None,B113-C-SB,None,None,"Snack Bar","New York",FALSE
+50,"Flushing Meadows Corona Park Food Cart","Flushing Meadows Corona Park, the designated volleyball Area",None,Q99-VB5C,None,None,"Food Cart","New York",FALSE
+51,"Golden Ring, Inc.","595 Bedford Avenue at the corner of Bedford Avenue and Williamsburg Street","Situated in the heart of Williamsburg, the concessionaire has been serving up Falafel for years.  In addition to falafel, it also offers other specialty Mediterranean dishes, including hummus (ground chickpeas), babaganoush (eggplant dip) and more.",B223-O-A-SB,"(718) 384-6577",None,"Snack Bar","New York",FALSE
+52,"Prospect Park Snack Bar","Parade Grounds",None,B73-SB,None,https://www.prospectpark.org/visit-the-park/places-to-go/parade-ground/,"Snack Bar","New York",FALSE
+53,"Flushing Meadows Corona Park Food Cart","Flushing Meadows Corona Park, in the the designated volleyball area",None,Q99-VBDC,None,None,"Food Cart","New York",FALSE
+54,"Conservatory Water Snack Bar","Adjacent to the beautiful Conservatory Waters, between 72nd & 75th streets","Perched on the south side of Central Park's Conservatory Water, our Snack Shack offers gourmet snacks to park visitors from organic solar-popped popcorn to organic Blue Marble ice cream. Come enjoy one of our delicious snacks as you stroll around this peaceful sailboat pond.",M10(15)-SB,"(646) 939-0020",http://www.lepainquotidien.com/store/central-park-conservatory-water/,"Snack Bar","New York",FALSE
+55,"Flushing Meadows Corona Park Food Cart","Flushing Meadows Corona Park, in the the designated volleyball area",None,Q99-VBEC,None,None,"Food Cart","New York",FALSE
+56,"West Playground Mobile Food Truck","West Playground",None,B252-MT,None,None,"Mobile Food Truck","New York",FALSE
+57,"Mineral Springs Cafe","Between 69th and 70th Streets and between Terrace Drive and Sheep Meadow","Le Pain Quotidien bakery and communal table serves simple, elegant boulangerie fare - soup, salads, tartines (open-faced sandwiches), breakfast, homemade pastries, and its signature handmade organic bread.  A wide selection of breads is baked fresh daily in Le Pain Quotidien's central bakery in New York City and delivered every morning.
+Special offerings at Le Pain Quotidien Mineral Springs include organic draft beer, organic ice cream, fresh homemade Belgian waffles, take-out baguette sandwiches, pre-packed picnic boxes, and free extended-range Wi-Fi.  The location also offers table service in the 30-seat dining room and 100-seat terrace overlooking Sheep Meadow, as well as to-go service from a take-out window.
+Additionally, the cafe serves as a community gathering place and education center with its Communal Table at Mineral Springs program.  Each week it features a new educational program focusing on topics such as sustainability and the environment; eating organic and vegan; organic farming; bread and bread-making; and tastings of sustainably grown wine, olive oil, honey, and other foods.",M10-33-SB,"(646) 663-3257",http://www.lepainquotidien.com/,"Snack Bar","New York",FALSE
+58,"Delacorte Theatre Snack Bar","The Delacorte Theatre",None,M10-DT-SB,None,None,"Snack Bar","New York",FALSE
+59,"Flushing Meadows Corona Park Food Cart","In the designated volleyball area",None,Q99-VBFC,None,None,"Food Cart","New York",FALSE
+60,"Underwood Park Mobile Trucks","Underwood Park",None,B259MT,None,None,"Mobile Food Truck","New York",FALSE
+61,"Van Cortlandt Park Food Cart","Near Paddleball courts at Broadway & West 241 Street",None,X92-(11)-C,None,None,"Food Cart","New York",FALSE
+62,"Ballfields Cafe","Heckscher Ballfields, south of 65th Street & west of the carousel","Directly bordering the Heckscher Ballfields in Central Park on its northeast side resides the Ballfields Cafe. Aptly named for its locale, this cafe is frequented by hungry spectators from the ball fields as well as strollers who stop by for a quick meal. This current building replaced an original Ballplayers House at the same site, which stood from 1873 to 1969. This quaint red and cream brick structure with its red-checkered tablecloths and green umbrellas serves up all of its items made to order. Besides the typical "Take me out to the ball game" fare, such as hot dogs and hamburgers, patrons will be pleased to find sandwiches and salads at reasonable prices. While dining outdoors, patrons can watch some of the baseball or softball games in action. Music from the nearby Carousel can be heard as it mingles with the cheers and jeers of the crowds as the crack of a bat hits a ball through the air.",M10-65-SB,"(917) 432-9661 ",None,"Snack Bar","New York",FALSE
+63,"Ocean Breeze Snack Bar","Ocean Breeze Athletic Complex",None,R149-SB,None,None,"Snack Bar","New York",FALSE
+64,"Arsenal Snack Bar","Basement of 830 5th Avenue","Customers can get fresh breakfast items such as muffins, croissants, and bagels to accompany their cup of morning coffee or can stop by for soup or a sandwich for lunch.",M10-SB,"(212) 439-6500",http://www.centralparkzoo.com,"Snack Bar","New York",FALSE
+65,"Williamsbridge Oval Playground Food Cart","Van Cortlandt Avenue East & Reservoir Oval East",None,X104-C,None,None,"Food Cart","New York",FALSE
+66,"Dag Hammarskjold Plaza Cafe","342 East 47th Street",None,M203C-SB,None,http://hospitalityholdings.com.s168780.gridserver.com/index.php&Alpha;id=patio,"Snack Bar","New York",FALSE
+67,"Hunter's Point South Snack Bar","Hunter's Point South Park","Set against the breathtaking backdrop of Manhattan's skyline, LIC Landing  features a spectacular 2000 sq-ft outdoor event space and a high-quality outdoor cafe.  It is located in Long Island City's beautiful, brand-new waterfront park at Hunters Point South.",Q471-SB,"(929) 296 0804",http://www.liclanding.com/,"Snack Bar","New York",FALSE
+68,"Shake Shack","Southeast corner of Madison Square Park-near Madison Avenue and East 23rd Street","Shake Shack is a modern day &acirc;&euro;&oelig;roadside burger stand&acirc;&euro; serving the most delicious burgers, hot dogs, frozen custard, beer and wine from Danny Meyer&acirc;&euro;&trade;s Union Square Hospitality Group. Shake Shack&acirc;&euro;&trade;s mission is to preserve (and add its spin on) the culinary traditions of classic American burger stands. Using the freshest high quality ingredients, all the food at Shake Shack is cooked to order (from burgers to shakes to everything in between). Since opening in 2004, Shake Shack has become a beloved NYC institution with a cult following.",M52-SB,"(212) 889-6600",http://www.shakeshack.com/,"Snack Bar","New York",FALSE
+69,"Pelham Bay Park Food Cart","Outside playground #1, at Middleton Road",None,X39-1-C,None,None,"Food Cart","New York",FALSE
+70,"Ellington In The Park","105th Street and Riverside Park","The bi-level facilities are refreshingly minimalist: a wooden, well-stocked bar and a couple of portable grills. Although the view is of the roaring West Side Highway rather than lapping waves, and shouts can be heard from the nearby baseball games, the cafe manages to conjure a festive, splash-happy mood. Locals-mostly well-groomed young folk and families with small kids-crowd the semi-secluded oasis for hamburgers, sandwiches, salads and fruity concoctions either at the bar or at tables set up in front of it. On the weekends, the cafe serves brunch.",M71(105)-R,None,http://www.ellingtoninthepark.com/,"Snack Bar","New York",FALSE
+71,"Van Cortlandt Park Mobile Food Truck","Mosholu Parkway South & North Between Van Cortlandt",None,X92-10-C,None,None,"Food Cart","New York",FALSE
+72,"Pier I Cafe","West 70 Street near Pier I","Pier I Cafe is an outdoor cafe located along the Hudson River, in the newly constructed Riverside Park South.  Open air, scenic river views and dramatic sunsets, provide both an escape while adding another dimension to city life. Pier I Cafe offers a casual menu; the ingredients are high quality, fresh food.  Whether you order the Pat La Frieda burgers served on buns baked daily or the freshly squeezed blueberry lemonade,  you will have a relaxing and pleasurable experience.  Start your day sipping a latte or espresso at the coffee bar and end it with a white wine sangria or a thirst-quenching draft beer all while watching the boats go by.",M71-70-SB,"(212) 362-4450",http://www.piericafe.com/,"Snack Bar","New York",FALSE
+73,"Windmuller Park Food Cart","52nd Street and 39th Road",None,Q31-C,None,None,"Food Cart","New York",FALSE
+74,"Rockaway Beach Snack Bars","Beach 86th Street, Beach 97th Street, and Beach 106th Street","Rockaway Beach Snack Bars are located on the Rockaway Beach Boardwalk in Queens. Menu items vary by location. The 106th Street Caracas snack bar offers arepas, which are corn flour- pita like rounds filled with a variety of ingredients. The 97th Street location has 8 different counters offering items from burgers, to beachy Korean fair, Italian ices, and lobster rolls. There is also a beach shop at this location where you can purchase clothing, sun tan lotion, and other beach related items. Finally the Beach 86th Street location or the "Rippers" offer breakfast burritos, tortas, burgers, and cold drinks for the hot summer days.",Q163-SB,None,http://www.caracasarepabar.com/rockaway.php,"Snack Bar","New York",FALSE
+75,Pushcart,"Near northern intersection of Avenues of Progress & Commerce",None,Q99-6-AC,None,None,"Food Cart","New York",FALSE
+76,"Astoria Pool Snack Bar","Astoria Pool",None,Q4-SB,None,https://surfshackny.wix.com/surfshack,"Snack Bar","New York",FALSE
+77,"Tweety's Mobile Food Truck","E 172 St. Bw Morris and Teller Aves.",None,X8-3MT,None,None,"Food Cart","New York",FALSE
+78,"Ederle Terrace Snack Bar","Ederle Terrace, 61-30 Van Wyck Expressway, overlooking Meadow Lake",None,Q99(2)-SB,None,None,"Snack Bar","New York",FALSE
+79,"PS 100 Playground Trucks","Theriot, Taylor and Story Aves.",None,X204-MT,None,None,"Food Cart","New York",FALSE
+80,"Central Park Food Cart","West Side of WD at W 62nd",None,M10-62-WD-C,None,None,"Food Cart","New York",FALSE
+81,"Bayview Playground Mobile Trucks","Bayview Playground",None,B274-MT,None,None,"Mobile Food Truck","New York",FALSE
+82,"Hugh Grant Circle Food Cart","East 177th Street, Wstchester Avenue, Virginia Avenue",None,X25-C,None,None,"Food Cart","New York",FALSE
+83,"Fort Greene Park Mobile Food Truck","Fort Green Park",None,B32-MT,None,None,"Mobile Food Truck","New York",FALSE
+84,"Olmsted Cafeteria","Olmsted Center",None,Q99-J-SB,None,None,"Snack Bar","New York",FALSE
+85,"NY Dosas","North side of Washington Square at Sullivan Street","The NY Dosas specialty cart, owned and operated by Thiru Kandasamy, known locally as "the Dosa Guy," serves up traditional Indian vegan fare near the corner of Sullivan Street and Washington Square South in Washington Square Park.  NY Dosas' menu includes such specialties as uthappam, samosas dosas, and vegan drumsticks.  Mr. Kandasamy's cart has been a critic's pick in the New York Magazine Restaurant Guide, and in 2007, he was the recipient of the coveted Vendy Award.",M98-EC-CG,"(917) 710-2092",None,"Specialty Cart","New York",FALSE
+86,"Plumb Beach Mobile Food Truck","Plumb Beach Parking Lot",None,B57-B-MT,None,None,"Mobile Food Truck","New York",FALSE
+87,"Rodman's Neck Snack Bar","The NYC Police Academy, Rodman","Rodman's Neck Snack Bar is a friendly snack bar located in the NYC Police Academy firing range at the training facility in Pelham Bay Park, Bronx.",X039-VM-SB,None,None,"Snack Bar","New York",FALSE
+88,"Bensonhurst Park Mobile Food Truck","End of Bay Parkway, near shopping center",None,B7-MT,None,None,"Mobile Food Truck","New York",FALSE
+89,"Orchard Beach Snack Bar","3 Locations along the beach","A friendly snack bar located in the Orchard Beach Park. Menu items include Hamburgers, hot dogs, chicken sandwiches, fried chicken, shish kabobs, fries, onion rings, nachos, wings, slushes, soda.",X39-C-BW-SB,"(718) 518-1800",None,"Snack Bar","New York",FALSE
+90,"Asser Levy Park Mobile Food Truck","Asser Levy Park",None,B80-MT,None,None,"Mobile Food Truck","New York",FALSE
+91,"Wafels & Dinges","West of the Scholar's Gate entrance at 60th Street","Wafels & Dinges is renowned for their authentic, light and crisp Belgian liege waffles, which include ingredients brought directly from Belgium.  In 2009, they were awarded the coveted Vendy Award for Best Mobile Dessert Vendor and emerged victorious from an episode of Throwdown with Bobby Flay.",M10-9-CG,1-866-429-7329,http://www.wafelsanddinges.com/,"Specialty Cart","New York",FALSE
+92,"Dunkin' Donuts","1320 Hutchinson River Parkway","Dunkin' Donuts provides customers with high quality coffee, bagels, donuts and other baked goods.",X101-O-R,"(718) 863-8692",None,"Snack Bar","New York",FALSE
+93,"Shore Road Park Mobile Food Trucks","Bay 8th Street",None,B82-4-MT,None,None,"Mobile Food Truck","New York",FALSE
+94,Wendy's,"19 West 170th Street","Wendy's in Keltch Memorial Park is located on 170th Street and Jerome Avenue. 
+Wendy's menu consists primarily of hamburgers, chicken sandwiches, French fries and beverages, including the Frosty. Wendy's is known for its square ground beef hamburgers and the Frosty, a very thick milkshake. Wendy's offers breakfast, lunch, and dinner. 
+",X58-R,"(718) 681-0483",None,"Snack Bar","New York",FALSE
+95,"Jackie Robinson Park Mobile Food Truck","Jackie Robinson Park",None,M14-MT,None,None,"Mobile Food Truck","New York",FALSE
+96,"NANDITA, INC.","WEST SIDE OF EAST DRIVE AND 63RD ST.",None,M10-63-ED-CG,None,None,"Specialty Cart","New York",FALSE
+97,"PS 199 Playground Mobile Food Truck","PS 199 Playground",None,M233-MT,None,None,"Mobile Food Truck","New York",FALSE
+98,"Harlem Meer Snack Bar","Harlem Meer","For over 20 years, Maoz have been continuously working to offer the best tasting nutritious meals and falafel to their customers. With more than 15 signature salads and sauces made with the finest ingredients from local farmers and purveyors, we are always on the lookout for the best quality ingredients available.",M10-64-SB,None,http://www.maozusa.com/restaurants/locations/nyc,"Snack Bar","New York",FALSE
+99,"Fort Tryon Park Mobile Food Truck","Margaret Corbin Circle",None,M29-2-C,None,None,"Mobile Food Truck","New York",FALSE
+100,"CAF&Eacute; PRODUCTS CORP.","COLUMBUS CIR. BEHIND THE USS MAINE MONUMENT",None,M10-W59-CG,None,None,"Specialty Cart","New York",FALSE
+101,"First Park Outdoor Cafe","Between East Houston Street and East First Street",None,M124-SB,"( 212) 529-8766",http://www.onmud.com/pages/mudpark,"Snack Bar","New York",FALSE
+102,"Prospect Park Mount Food Cart","Grand Army Plaza",None,B159-C,None,None,"Food Cart","New York",FALSE
+103,"Alexander Hamilton Plygrd Mobile Food Truck","Alexander Hamilton Plygrd",None,M41-W140-MT,None,None,"Mobile Food Truck","New York",FALSE
+104,"Peter Minuit Snack Bar",Pavilion,None,M5-PM-SB,None,None,"Snack Bar","New York",FALSE
+105,"Williamsbridge Oval Park","South corner of track",None,X104-2-C,None,None,"Food Cart","New York",FALSE
+106,"Cross Island Mobile Food Truck","Cross Island Parkway and Clearview Parkway",None,Q135-MT,None,None,"Mobile Food Truck","New York",FALSE
+107,"ALEX LINDOWER PARK TRUCKS","East 60th and Strickland",None,B329-MT,None,None,"Food Cart","New York",FALSE
+108,"Battery Park Snack Bar","Battery Park",None,M5-SB,None,None,"Snack Bar","New York",FALSE
+109,"Forest Park Mobile Food Truck","79 Street and Park Lane South",None,Q15-1-MT,None,None,"Mobile Food Truck","New York",FALSE
+110,"THE NEW YORK PICNIC COMPANY, INC.","Hecksher Playground",None,M10-W60-HP-C,None,None,"Food Cart","New York",FALSE
+111,"Rufus Playground Mobile Food Trucks","Rufus King Playground",None,Q23-MT,None,None,"Mobile Food Truck","New York",FALSE
+112,"NANDITA, INC.","MALL AREA. S.W. OF BANDSHELL",None,M10-72-1B-C,None,None,"Food Cart","New York",FALSE
+113,"PS 173 Playground Mobile Food Truck","Fresh Meadows Playground",None,Q314-MT,None,None,"Mobile Food Truck","New York",FALSE
+114,"THE NY PICNIC COMPANY","NORTH OF 72 ST. TRANVERSE, PATH LEADING TO CHERRY HILL",None,M10-72-6C,None,None,"Food Cart","New York",FALSE
+115,"Maurice A Fitzgerald Playground Mobile Food Truck","Maurice A Fitzgerald Playground",None,Q337-MT,None,None,"Mobile Food Truck","New York",FALSE
+116,"JANANI FOOD SERVICES, INC.","EAST 72ND ST. PATH LEADING TO CONSERVATORY WATERS",None,M10-72-CW-C,None,None,"Food Cart","New York",FALSE
+117,"Gunn Park Mobile Food Truck","William T. Gunn Playground",None,Q358-MT,None,None,"Mobile Food Truck","New York",FALSE
+118,"UNLIMITED NUTS, INC.","BOW BRIDGE, N.  PATH LEADING TO CHERRY HILL",None,M10-73-BB-C,None,None,"Food Cart","New York",FALSE
+119,"Rafferty Square Mobile Food Truck","44th Drive and Hunter Street",None,Q36-A-MT,None,None,"Mobile Food Truck","New York",FALSE
+120,"Cafe Products Corp","Columbus Avenue and W. Street",None,M51-CG,None,None,"Specialty Cart","New York",FALSE
+121,"Hart Playground Mobile Food Truck","General Hart Playground",None,Q419-MT,None,None,"Mobile Food Truck","New York",FALSE
+122,"Yellowstone Muni Playground Mobile Food Truck","Yellowstone Park",None,Q425-MT,None,None,"Mobile Food Truck","New York",FALSE
+123,"Central Park Specialty Cart","East Drive and 63 Street",None,M010-63-ED-CG,None,None,"Specialty Cart","New York",FALSE
+124,"Lt Corp Noonan Mobile Food Truck","Lt Corp. Noonan Playground",None,Q44-MT,None,None,"Mobile Food Truck","New York",FALSE
+125,"Elmhurst Park Mobile Food Truck","Elmhurst Park",None,Q492-MT,None,None,"Mobile Food Truck","New York",FALSE
+126,"PQR Pizza Food Cart","64th Street and 5th Avenue",None,M10E-64-CG,None,None,"Specialty Cart","New York",FALSE
+127,"Memorial Field Mobile Food Truck","Flushing Fields",None,Q86-MT,None,None,"Mobile Food Truck","New York",FALSE
+128,"Flushing Meadows Mobile Food Truck","Herbert Hoover Promenade and Avenue of Commerce",None,Q99-MT,None,None,"Mobile Food Truck","New York",FALSE
+129,"Bloomingdale Park Mobile Food Truck","Bloomingdale Park",None,R106-2-MT,None,None,"Mobile Food Truck","New York",FALSE
+130,"Owl Hollow Park Mobile Food Truck","Owls Hollow Soccer Fields",None,R17-MT,None,None,"Mobile Food Truck","New York",FALSE
+131,"Central Park Specialty Food Cart","72nd Street and 5th Avenue",None,M10-E72-CG,None,None,"Specialty Cart","New York",FALSE
+132,"UNLIMITED NUTS, INC.","EAST DRIVE AND EAST 79TH , PATH TO GREAT LAWN",None,M10-79-ED-C,None,None,"Food Cart","New York",FALSE
+133,"Midland Beach Mobile Food Truck","Parking Lot 2",None,R46-2-MT,None,None,"Mobile Food Truck","New York",FALSE
+134,"Hanover Square Specialty Carts","Hanover Square",None,M212-CG,None,None,"Specialty Cart","New York",FALSE
+135,"MUN TRADING COMPANY","NEAR THE ZOO ENTRANCE",None,M10-E62-C,None,None,"Food Cart","New York",FALSE
+136,"Midland Beach Mobile Food Truck","Parking Lot 9",None,R46-3-MT,None,None,"Mobile Food Truck","New York",FALSE
+137,"Midland Beach Mobile Food Truck","Fishing Pier at Parking Lot 6",None,R46-MT,None,None,"Mobile Food Truck","New York",FALSE
+138,"SALIM AHAMED","NORTH OF UNDERPASS NEAR TISCH CHILDREN'S ZOO",None,M10-E65-C,None,None,"Food Cart","New York",FALSE
+139,"Rice the Great Specialty Food Cart","Thomas Paine Park",None,M30-1-CG,None,None,"Specialty Cart","New York",FALSE
+140,"Clove Lakes Park Mobile Food Truck","Clove Lakes Park",None,R5-MT,None,None,"Mobile Food Truck","New York",FALSE
+141,"JANANI FOOD SERVICE, INC.","LITERARY WALK ACROSS FROM R. BURNS STATUE",None,M10-E66-CD-C,None,None,"Food Cart","New York",FALSE
+142,"Conference House Park Mobile Food Trucks","Conference House Park",None,R6-MT,None,None,"Mobile Food Truck","New York",FALSE
+143,"MUHAMMAD T. ISLAM","EAST END OF OF THE GREAT LAWN, EAST 82 ST.",None,M10-E82-GL-C,None,None,"Food Cart","New York",FALSE
+144,"Imagination Playground Specialty Food Cart","Imagination Playground",None,M386-CG,None,None,"Specialty Cart","New York",FALSE
+145,"JANANI FOOD SERVICES, INC.","SOUTHEND OF PATH LEADING TO HECKSCHER BLDG.",None,M10-W61-HP-C,None,None,"Food Cart","New York",FALSE
+146,"Mohammad Matin","NORTHEND OF HECKSCHER PLAYGROUND, WEST 63 ST.",None,M10-W63-HP-C,None,None,"Food Cart","New York",FALSE
+147,"King David Taco","26 Street and 5th Avenue",None,M52-CG,None,http://kingdavidtacos.com/,"Specialty Cart","New York",FALSE
+148,"PS 52 Mason Playground Mobile Food Truck","Dongan Playground",None,R87-MT,None,None,"Mobile Food Truck","New York",FALSE
+149,"INDULGE BISTRO CAFE, INC.","PATH LEDING INTO PARK BETWEEN WEST 106 AND W108 STS.",None,M10-W108-C,None,None,"Food Cart","New York",FALSE
+150,"Ciccarone Park Mobile Food Truck","Ciccarone Park",None,X102-MT,None,None,"Mobile Food Truck","New York",FALSE
+151,"JANANI FOOD SERVICES, INC.","WEST 109 ST & MALCOLM X, INSIDE PARK (AT FORK)",None,M10-W109-C,None,None,"Food Cart","New York",FALSE
+152,"T. Roosevelt Park Specialty Food Cart","West 81 Street and Central Park West",None,M53-CG,None,None,"Specialty Cart","New York",FALSE
+153,"Belmont Playground Mobile Food Trucks","Belmont Playground",None,X108-MT,None,None,"Mobile Food Truck","New York",FALSE
+154,"Nandita Inc.","Great Lawn, W81st  East Of Delacorte Theater","Gourmet cart offering crepes, hot dogs, ice cream, drinks and other related items.",M10-W81-GL-CG,None,None,"Food Cart","New York",FALSE
+155,"Tremont Park Mobile Food Truck","Playground Entrance",None,X10-A-MT,None,None,"Mobile Food Truck","New York",FALSE
+156,"Battery Park Specialty Food Cart","Battery Place and Washington Street",None,M5-CG,None,None,"Specialty Cart","New York",FALSE
+157,"SHARMIN, INC.","GREAT LAWN, EAST OF WEST DRIVE AT 85 ST",None,M10-W85-GL-C,None,None,"Food Cart","New York",FALSE
+158,"Soundview Park Mobile Food Trucks","Soundview Park",None,X118-4-MT,None,None,"Mobile Food Truck","New York",FALSE
+159,"Coney Island Food Cart","Brighton 2nd Playground",None,B16-4-C,None,None,"Food Cart","New York",FALSE
+160,"Riverside Park Specialty Food Cart","West 83rd Street and Riverside Park",None,M71-83-CG,None,None,"Specialty Cart","New York",FALSE
+161,"Soundview Mobile Food Truck","Soundview Park",None,X118-MT,None,None,"Mobile Food Truck","New York",FALSE
+162,"Russell Pedersen Playground Food Cart","Russell Pedersen Playground",None,B192-C,None,None,"Food Cart","New York",FALSE
+163,"Florence Colucci Playground Mobile Food Truck","Colucci Playground",None,X122-MT,None,None,"Mobile Food Truck","New York",FALSE
+164,"Callahan-Kelly Playground Breakfast Cart","Callahan-Kelly Playground",None,B219-BC,None,None,"Food Cart","New York",FALSE
+165,"Watson Park Mobile Food Trucks","Watson Gleason Playground",None,X124-MT,None,None,"Mobile Food Truck","New York",FALSE
+166,"Dyker Beach Park Food Cart","86th Street and 14th Avenue",None,B28-2-C,None,None,"Food Cart","New York",FALSE
+167,"Mazzei Playground Trucks","Mazzei Playground",None,X157-MT,None,None,"Mobile Food Truck","New York",FALSE
+168,"Public Place Food Cart","ELDERT LANE B/W LIBERTY & GLENMORE",None,B290-C,None,None,"Food Cart","New York",FALSE
+169,"Rodmans Neck Mobile Food Truck","Rodman's Neck",None,X39-E-MT,None,None,"Mobile Food Truck","New York",FALSE
+170,"Sunset Park Food Cart","Sunset Park",None,B87-C,None,None,"Food Cart","New York",FALSE
+171,"Pugsley Park Mobile Food Truck","Pugsley Creek Park",None,X88-2-MT,None,None,"Mobile Food Truck","New York",FALSE
+172,"Rvierside Park Specialty Food Cart","West 101 Street and Riverside Park",None,M71-W101-CG,None,None,"Specialty Cart","New York",FALSE
+173,"Central Park Food Cart","East Drive and 61 Street",None,M10-61-ED-C,None,None,"Food Cart","New York",FALSE
+174,"Woodlawn Memorial Mobile Food Truck","Woodlawn Playground",None,X96-MT,None,None,"Mobile Food Truck","New York",FALSE
+175,"Bowling Green Park Specialty Cart","Bowling Green Park",None,M7-CG,None,None,"Specialty Cart","New York",FALSE
+176,"Loeb Boathouse Restaurant","East 72nd Street & Park Drive North","At the Leob Boathouse in Central Park visitors can enjoy a meal in any season on the deck overlooking the Lake. More informal snacks are available on the outside terrace across from the bicycle rental concession, and a quick service concession as well. Catering is also available year round for special events of all kinds: breakfast conferences, fundraisers, corporate barbecues, holiday dinner dances and weddings. At The Boathouse you can rent bicycles, rowboats, or take a ride in an authentic Venetian gondola.","M10-(14)-BR,SB,R","(212) 517-2233",http://www.thecentralparkboathouse.com/,Restaurant,"New York",FALSE
+177,"Central Park Food Cart","Central Park Mall Area",None,M10-62-CD-CG,None,None,"Food Cart","New York",FALSE
+178,"Tavern on the Green","Central Park West & West 67th Street","The Sheepfold in Central Park, constructed in the latter half of the 19th century at the same time as the Tweed Courthouse on Chambers Street (now home to the New York City Department of Education) is one of the City's finest examples of Victorian Gothic architecture and one of the Park's most treasured landmarked buildings. Presently a restaurant named Tavern on the Green, the building is the best surviving work of the British architect and ornamentalist, Jacob Wrey Mould (1825-1886).<BR><BR>
+
+Mould is also responsible for other Park treasures including the carvings and the Minton tile arcade at Bethesda Terrace, the pavilions at Belvedere Castle, and many of the Park's ornamental bridges, designed in collaboration with Calvert Vaux. <BR><BR>
+
+Constructed of "the best Colobaugh brick," local granite, and blue and gray Malden stone, the decorative elements of the building's facade are still intact despite twentieth century additions. The original U-shaped building had three elements: the Sheepfold proper (now the open air terrace and glassed-in Crystal Room); the residence of the Keeper and his men; and the open Loggie and their balconies. The northern and southern extremities of the building faced "the Green," which became known, appropriately, as the Sheep Meadow. The present windows, flanked by red granite columns and decorative stone and tilework, may have once been part of the open air structure. The interior and possibly exterior flooring was originally paved with Minton encaustic tiles. Completing the compound, adjacent to the main building were barns and lofts for storage of feed for the sheep. <BR><BR>
+
+The preliminary sketch for the building was published in the First Annual Report of the Department of Public Parks of 1871. Many construction drawings for the building are in the Municipal Archives of the City of New York. <BR><BR>
+
+Parks Commissioner Robert Moses converted the Sheepfold (which actually housed 200 South Down sheep that grazed across the street) into a restaurant named Tavern on the Green, which opened to the public on October 20, 1934. New Yorkers quickly embraced this new eatery and it soon became an integral part of the City's social life. From the late 1930s until 1943, the restaurant was closed and the building was used as the headquarters for the Civilian Patrol Corps. The restaurant reopened in 1943 under new management and was renovated into a year-round facility. By the 1950s, the structure was showing some wear and tear and underwent a further renovation by the designer Raymond Loewy. At that time the restaurant had been expanded to serve more than 1,200 diners and the number of parking spaces was doubled. A succession of management companies operated the restaurant until well-known New York restaurateur Warner LeRoy acquired the license in 1973. The revitalized restaurant became a popular destination for tourists and New Yorkers alike.  <BR><BR>",M10(34)-R,212-877-8684,http://tavernonthegreen.com/,Restaurant,"New York",FALSE
+179,"Dosa Specialty Food Cart","Washington Square and Thompson Place",None,M98-3-CG,None,None,"Specialty Cart","New York",FALSE
+180,"Maria Hernandez Park Food Cart","Maria Hernandez Park",None,B16-C,None,None,"Fruit & Vegetable Cart","New York",FALSE
+181,"Central Park Food Cart","Central Park Mall near Bandshell",None,M10-72-1C-C,None,None,"Food Cart","New York",FALSE
+182,"Central Park Food Cart","Bethesda Fountain",None,M10-72-2C,None,None,"Food Cart","New York",FALSE
+183,"Central Park Food Cart","West Drive and 86 Street",None,M10-86-WD-C,None,None,"Food Cart","New York",FALSE
+184,"Laguardia Park Food Cart","Madison Street, near playground",None,M132-C,None,None,"Food Cart","New York",FALSE
+185,"East River Park Food Cart","East River Park, Near Tennis Courts",None,M144-(1)-C,None,None,"Food Cart","New York",FALSE
+186,"East River Park Food Cart","East River Park",None,M144-(3)-C,None,None,"Food Cart","New York",FALSE
+187,"Wald Playground Food Cart","Wald Playground",None,M201-C,None,None,"Food Cart","New York",FALSE
+188,"Inwood Hill Food Cart","Southern Soccer Field",None,M42-10-C,None,None,"Food Cart","New York",FALSE
+189,"Inwood Hill Food Cart","Isham Street Entrance to Park",None,M42-4-C,None,None,"Food Cart","New York",FALSE
+190,"John Jay Park Food Cart","John Jay Park",None,M45-C,None,None,"Food Cart","New York",FALSE
+191,"Riverside Park Food Cart","West 109 Street and Riverside Park",None,M71-W109-C,None,None,"Food Cart","New York",FALSE
+192,"Riverside Park Food Cart","West 148 Street Near the Playground",None,M72-W148-1-C,None,None,"Food Cart","New York",FALSE
+193,"Washington Square Park Food Cart","Washington Square Park near Fountain",None,M98-F-C,None,None,"Food Cart","New York",FALSE
+194,"Junction Playground Food Cart","Junction Playground",None,Q122-C,None,None,"Food Cart","New York",FALSE
+195,"Columbus Square Food Cart","Columbus Square",None,Q137-C,None,None,"Food Cart","New York",FALSE
+196,"Travers Park Food Cart","Travers Park",None,Q303-C,None,None,"Food Cart","New York",FALSE
+197,"PS 149 Playground Food Cart","Northern Playground",None,Q363-C,None,None,"Food Cart","New York",FALSE
+198,"Corona Golf Playground Food Cart","Corona Golf Playground",None,Q450-C,None,None,"Food Cart","New York",FALSE
+199,"Bloomingdale Park Food Cart","Bloomingdale Park",None,R106-C,None,None,"Food Cart","New York",FALSE
+200,"Tompkinsville Square Food Cart","Tomkins Square Park",None,R24-C,None,None,"Food Cart","New York",FALSE
+201,"Clove Lakes Park Food Cart","Clove Lakes Park",None,R5-3-C,None,None,"Food Cart","New York",FALSE
+202,"Starlight Park Food Cart","Starlight Park",None,X147-A-C,None,None,"Food Cart","New York",FALSE
+203,"J Rodman Drake Park Food Cart","Joseph Rodman Drake Park",None,X15-C,None,None,"Food Cart","New York",FALSE
+204,"River Park Food Cart","River Park Boston Road and 180 Street",None,X288-C,None,None,"Food Cart","New York",FALSE
+205,"New Leaf Cafe","1 Margaret Corbin Drive","New Leaf is open year-round serving locally-sourced, modern American fare and hosting weddings, parties, and other private events.  Just steps from The Cloisters museum and gardens, surrounded by majestic trees, the 1930&rsquo;s cottage and outdoor patio offer a one-of-a-kind experience for locals and tourists alike.  Whether you are at New Leaf for a meal in the main dining room, an event on the garden patio, or cocktails in the tavern room, the tranquil setting is a delightful reprieve from urban living.",M29-R,None,http://www.newleafrestaurant.com/,Restaurant,"New York",FALSE
+206,"Van Cortlandt Park Food Cart","Off Mansion Road",None,X92-1A-C,None,None,"Food Cart","New York",FALSE
+207,"West 79th Street Boat Basin Cafe","Rotunda at the West 79 Street Marina","The Boat Basin Cafe is a casual outdoor restaurant, arranged in three sections & located in Riverside Park at the end of 79th Street on the Hudson River. There is an open air patio that overlooks the Marina and the Hudson River with breathtaking views of the sunsets over New Jersey. The covered Rotunda section in the middle of the restaurant has limestone arches overlooking the open air patio. All BBQ Grill parties are held underneath this covered area. Catering and private events are available. The last section is our circular open air area where most of our bar parties are held, weather permitting. The restaurant is open as early as late March and extends through the end of October.  This is all weather permitting. There is boat docking available for a fee.",M71-(79)-R,"(212) 496-5542",http://www.boatbasincafe.com/,Restaurant,"New York",FALSE
+208,"Frank O'Connor Park Food Cart","Frank O'Connor Playground",None,Q98-C,None,None,"Food Cart","New York",FALSE
+209,"Seth Low Park Mobile Food Truck","Between Bay Parkway & Avenue P",None,B100-MT,None,None,"Mobile Food Truck","New York",FALSE
+210,"J.J. Byrne Memorial Park Mobile Food Truck","4th Avenue to 5th Avenue, between 3rd Street & 5th Street",None,B111-MT,None,None,"Mobile Food Truck","New York",FALSE
+211,"Red Hook Recreation Center Mobile Food Truck","Bay Street between Henry & Clinton streets",None,B126-3MT,None,None,"Mobile Food Truck","New York",FALSE
+212,"Colonel Markus Playground Mobile Food Truck","5th Street entrance off of Avenue and Ocean Park",None,B128-MT,None,None,"Mobile Food Truck","New York",FALSE
+213,"G. Garibaldo Playground Trucks","18th Avenue and 82nd Street",None,B158-MT,None,None,"Mobile Food Truck","New York",FALSE
+214,"Brooklyn Queens Expressway Mobile Food Truck","corner of Columbia Terrace & Montague Street",None,B222-MT,None,None,"Mobile Food Truck","New York",FALSE
+215,"William E. Kelly Park Mobile Food Truck","Avenue S between East 14th & East 16th streets",None,B51-MT,None,None,"Mobile Food Truck","New York",FALSE
+216,"Jackie Robinson Park Mobile Food Truck","Bradhurst Avenue between West 145 & West 155 streets",None,M14-MT,None,None,"Mobile Food Truck","New York",FALSE
+217,"Anibal Aviles Playground Mobile Food Truck","West 107 to West 108 street and Amsterdam to Columbus Avenues","This mobile food unit is also authorized to operate at Bloomingdale/Ps145 Playground (West 104-West 105, Amsterdam-Columbus), Frederick Douglass Playground (West 101-West 102 & Amsterdam), and Happy Warrior Playground (West 97-West 98 & Amsterdam)",M200-200A/200/229-MT,None,None,"Mobile Food Truck","New York",FALSE
+218,"Highbridge Park Mobile Food Truck","Amsterdam Avenue and West 173 Street",None,M37-3MT,None,None,"Mobile Food Truck","New York",FALSE
+219,"Highbridge Park Mobile Food Truck","Amsterdam Avenue & West 177 Street",None,M37-7MT,None,None,"Mobile Food Truck","New York",FALSE
+220,"Highbridge Park Mobile Food Truck","Amsterdam Avenue and West 180 Street",None,M37-8MT,None,None,"Mobile Food Truck","New York",FALSE
+221,"Inwood Hill Park Mobile Food Truck","Seaman Avenue & West 204 Street to West 214st Street & Indian Road",None,M42/M43-MT,None,None,"Mobile Food Truck","New York",FALSE
+222,"Kissena Corridor Park Mobile Food Truck","Utopia Parkway near Lie & Underhill roads",None,Q300-MT,None,None,"Mobile Food Truck","New York",FALSE
+223,"Thomas J. Travers Playground Mobile Food Truck","34th Avenue between 77 & 78 streets",None,Q303-MT,None,None,"Mobile Food Truck","New York",FALSE
+224,"Vleigh Place Playground Mobile Food Truck","Vleigh Place & 141 Street",None,Q336-MT,None,None,"Mobile Food Truck","New York",FALSE
+225,"Frederick Cabbell Park Mobile Food Truck","236th Stret & 121st Avenue",None,Q339-MT,None,None,"Mobile Food Truck","New York",FALSE
+226,"PS 127 Elmhurst Playground Mobile Food Truck","27th Avenue",None,Q373-MT,None,None,"Mobile Food Truck","New York",FALSE
+227,"Astoria Park Mobile Food Truck","Shore Blvd., Hoyt Ave. and Ditmars Blvd",None,Q4-1-MT,None,None,"Mobile Food Truck","New York",FALSE
+228,"Flushing Meadows Corona Park Mobile Food Truck","Near Unisphere, along the pathway",None,Q99-1-MT,None,None,"Mobile Food Truck","New York",FALSE
+229,"Flushing Meadows Corona Park Mobile Food Truck","Near the Hall of Science",None,Q99-HS-MT,None,None,"Mobile Food Truck","New York",FALSE
+230,"Flushing Meadows Corona Park Mobile Food Truck","Near South Bridge By Queens Zoo",None,Q99-ZMT,None,None,"Mobile Food Truck","New York",FALSE
+231,"Bloomingdale Park Mobile Food Truck","Richmond Parkway, Bloomingdale Road, and Lenevar Avenue",None,R106-MT,None,None,"Mobile Food Truck","New York",FALSE
+232,"Sound View Park Mobile Food Truck","Southwest corner of Metcalf and Lafayette avenues",None,X118-2MT,None,None,"Mobile Food Truck","New York",FALSE
+233,"Sound View Park Mobile Food Truck","Lafayette Ave., btwn. Boynton Ave. and Colgate Ave.",None,X118-(4)MT,None,None,"Mobile Food Truck","New York",FALSE
+234,"Devoe Park Mobile Food Truck","West Fordham Road & University Avenue",None,X13-MT,None,None,"Mobile Food Truck","New York",FALSE
+235,"Vinmont Veteran Park Mobile Food Truck","254th Street to 256th Street & Mosholu Avenue to Riverdale",None,X152-MT,None,None,"Mobile Food Truck","New York",FALSE
+236,"P.S. 106 Playground Mobile Food Truck","St. Raymond Avenue between O'dell & Purdy streets",None,X160-MT,None,None,"Mobile Food Truck","New York",FALSE
+237,"Haffen Park Mobile Food Truck","Burk, Ely & Gunter Avenues",None,X196-MT,None,None,"Mobile Food Truck","New York",FALSE
